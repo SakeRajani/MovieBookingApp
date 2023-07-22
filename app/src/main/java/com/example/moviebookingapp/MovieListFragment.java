@@ -15,7 +15,7 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
 public class MovieListFragment extends Fragment  {
-View view;
+View view = null;
 
     @Nullable
     @Override
